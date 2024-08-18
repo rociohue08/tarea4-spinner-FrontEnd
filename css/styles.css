@@ -6,6 +6,7 @@ body {
     align-items: center;
     overflow: hidden; 
     background-image: url("assets\images\fondospìner.jpg");
+}
 
 img {
     margin-top: 10px;
